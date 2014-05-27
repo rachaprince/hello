@@ -1,4 +1,5 @@
-$("#nameInput").click(function(){
+$(document).ready(function(){
+  $("#nameInput").click(function(){
     var value = $( "#yourname" ).val();
   $("#chartTitle").append(value);
 });
@@ -43,3 +44,6 @@ $('input:radio[name="joint"]').change(function(){
        $("#shoulderDevice").toggle();
     }
 });
+
+});
+
