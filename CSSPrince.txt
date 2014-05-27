@@ -1,0 +1,26 @@
+body
+{
+background-color:#669966 ;
+}
+h1
+{
+color:darkgrey;
+text-align:center;
+font-family: "Arial"
+}
+h2
+{
+color:Red;
+text-align:center;
+font-family: "Arial"
+}
+h3
+{
+text-align:left;
+font-family: "Courier"
+}
+p
+{
+font-family:"Times New Roman";
+font-size:14px;
+}
